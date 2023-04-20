@@ -1,0 +1,41 @@
+body{
+    background-image: url(new/mybackground.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    text-shadow: 10px 10px 10px lightblue;
+    font-family: 'Cedarville Cursive', cursive;
+    text-align: center;
+}
+h4{
+    text-shadow: 10px 10px 10px lightblue;
+    font-family: cursive;
+    text-align: center;
+}
+#mybutton{
+    font-family: cursive;
+    text-shadow: 10px 10px 10px lightblue;
+}
+
+h2{
+    text-shadow: 10px 10px 10px lightblue;
+    font-family: cursive;
+    text-align: center;
+}
+
+h3{
+    text-shadow: 10px 10px 10px lightblue;
+    font-family: cursive; 
+}
+
+p{
+    text-shadow: 10px 10px 10px lightblue;
+    font-family: cursive;
+}
+
+#boss{
+    text-align: right;
+}
